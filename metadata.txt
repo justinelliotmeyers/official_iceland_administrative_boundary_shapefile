@@ -1,0 +1,74 @@
+source:
+http://www.lmi.is/
+National Land Survey of Iceland
+Based on data from National Land Survey of Iceland
+
+
+license:
+
+http://www.lmi.is/wp-content/uploads/2013/10/licenceNLSI.pdf
+
+Landmælingar Íslands ? Stillholti 16-18, 300 Akranes
+kt. 710169-3309 ? sími: 430 9000 ? lmi@lmi.is ? www.lmi.is
+Licence, according to article 31 of Act on Information no. 140/2012
+and Act on Surveying and Base Mapping no. 103/2006,
+for National Land Survey of Iceland free data
+The Open Government Licence was taken into account in the revision of this licence
+http://www.nationalarchives.gov.uk/doc/open-government-licence/
+You are encouraged to use and re-use the Information that is available under this licence, with the following conditions and
+according to appendix 1.
+Using Information under this licence.
+Use of copyright and database right material expressly made available under this licence (the ‘Information’) indicates your
+acceptance of the terms and conditions below.
+The National Land Survey of Iceland grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the
+Information subject to the conditions below.
+This licence does not affect your freedom according to chapter 2 of copyright law no. 73/1972.
+You are free to:
+? copy, publish, distribute and transmit the Information;
+? adapt the Information;
+? exploit the Information commercially and non-commercially for example, by combining it with other
+Information, or by including it in your own product or application.
+You must, where you do any of the above:
+? acknowledge the source of the Information being from the National Land Survey of Iceland with the following
+text: Based on data from National Land Survey of Iceland and, where possible, provide a link to this licence;
+Make sure that:
+• you do not use your information in a manner to give the impression that you are in a public position or the
+information provider agrees you especially as a user or your use of the information;
+• you do not mislead others or publish information or notify of its origins in misleading or incorrect manner;
+• Your use of the information doesn’t conflict with privacy laws and use of personal information no. 77/2000 or
+Article 6 of Information Act.
+These are important conditions of this licence and if you fail to comply with them the rights granted to you under this
+licence, or any similar licence granted by the Licensor, will end automatically.
+Exemptions.
+This licence does not cover:
+? personal data in the Information;
+? departmental or public sector organisation logos except where they form an integral part of a document or dataset;
+? third party rights that National Land Survey of Iceland is not authorised to license; 
+Landmælingar Íslands ? Stillholti 16-18, 300 Akranes
+kt. 710169-3309 ? sími: 430 9000 ? lmi@lmi.is ? www.lmi.is
+Non warranty.
+National Land Survey of Iceland excludes all representations, warranties, obligations and liabilities in
+relation to the Information to the maximum extent permitted by law.
+National Land Survey of Iceland is not liable for any errors or omissions in the Information and shall not be liable for any
+loss, injury or damage of any kind caused by its use. National Land Survey of Iceland does not guarantee the continued
+supply of the Information.
+Governing Law.
+This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of
+business, unless otherwise specified by the Information Provider.
+Definitions.
+In this licence, the terms below have the following meanings:
+‘Information’
+means information protected by copyright or by database right (for example, literary and artistic works, content, data and
+source code) offered for use under the terms of this licence.
+‘Use’
+as a verb, means doing any act which is restricted by copyright or database right, whether in the original medium or in any
+other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary
+to use it in a different mode or format.
+‘You’
+means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
+National Land Survey of Iceland, 10 September 2013.
+Appendix 1.
+As a result of the Icelandic government‘s focus to prevent illegal off-road driving and to restrict or prevent traffic in certain
+areas of the country, then NLSI wants to take notice of that the users of the data that has been delivered are responsible for
+monitoring if and when roads and trails are closed temporarily or permanently to public traffic. Such government measures
+reach further than information on roads and tracks that are in the NLSI databases at any time.
